@@ -98,7 +98,7 @@ Everything runs natively on the Prompt Opinion platform.
 | Component | Technology |
 |-----------|------------|
 | Platform | Prompt Opinion |
-| LLM | Google Gemini Flash |
+| LLM | gemini-3-flash-preview |
 | API | Google AI Studio |
 | Agent Protocol | A2A (Agent-to-Agent) |
 | Data Standard | HL7 FHIR R4 |
