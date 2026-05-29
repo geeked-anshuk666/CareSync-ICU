@@ -1,0 +1,45 @@
+Patient: James Kim | Male | DOB: 03/15/1957 | Age: 67
+Setting: ICU, Post-Cardiac Surgery Day 2
+
+CHIEF COMPLAINT: Post-operative monitoring following coronary artery bypass graft surgery.
+
+HISTORY OF PRESENT ILLNESS:
+James Kim is a 67-year-old male admitted to the ICU following emergency coronary artery bypass graft surgery 2 days ago. He has a history of coronary artery disease, hypertension, and type 2 diabetes. Post-operative course has been complicated by hemodynamic instability requiring vasopressor support.
+
+ACTIVE CONDITIONS:
+- Post-cardiac surgery recovery (CABG, Day 2)
+- Coronary artery disease
+- Hypertension
+- Type 2 Diabetes Mellitus
+
+CURRENT VITALS (06:00):
+- Heart Rate: 108 bpm (tachycardic)
+- Blood Pressure: 94/62 mmHg (hypotensive)
+- SpO2: 91% (on supplemental oxygen)
+- Respiratory Rate: 22/min
+- Temperature: 37.8°C
+- Lactate: 3.2 mmol/L (elevated - trending up from 2.8 at midnight)
+
+ACTIVE MEDICATIONS:
+1. Metoprolol 25mg oral daily
+2. Diltiazem drip 5mg/hr IV
+3. Norepinephrine 0.1 mcg/kg/min IV (vasopressor)
+4. Heparin infusion 1200 units/hr IV
+5. Insulin drip per protocol
+6. Pantoprazole 40mg IV daily
+7. Furosemide 20mg IV PRN
+
+ALLERGIES:
+- Penicillin: Anaphylaxis
+
+PENDING PROCEDURES:
+- Coronary angiography scheduled for tomorrow morning
+- Repeat lactate in 2 hours
+- Echo pending cardiology review
+
+FAMILY:
+- Wife present in waiting room, primarily speaks Spanish
+- Daughter available by phone
+
+OUTGOING NURSE HANDOFF NOTE:
+Patient had a restless night. Pain controlled with PRN morphine. Metoprolol given at 06:00. Urine output adequate. Family requesting update.

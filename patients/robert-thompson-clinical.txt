@@ -1,0 +1,49 @@
+Patient: Robert Thompson | Male | DOB: 11/08/1953 | Age: 71
+Setting: Cardiology Ward, Pending Discharge Today
+
+CHIEF COMPLAINT: Acute decompensated heart failure, now stabilized, being discharged today.
+
+HISTORY OF PRESENT ILLNESS:
+Robert Thompson is a 71-year-old male admitted 6 days ago with acute decompensated heart failure. He has been diuresed successfully. Lives alone. Daughter lives 2 hours away. This is his second admission in 4 months. Previous admission February 2026 for same reason.
+
+ACTIVE CONDITIONS:
+- Congestive Heart Failure (EF 35%)
+- Chronic Kidney Disease Stage 3 (Creatinine 2.4 mg/dL)
+- Type 2 Diabetes Mellitus
+- Hypertension
+- Atrial Fibrillation (chronic)
+
+DISCHARGE LABS:
+- Creatinine: 2.4 mg/dL (baseline is 2.1, mildly elevated)
+- BNP: 480 (down from 1820 on admission)
+- Potassium: 4.2 mEq/L
+- Weight today: 94 kg (down 6 kg from admission weight of 100 kg)
+
+PRE-ADMISSION MEDICATIONS:
+1. Furosemide 40mg daily oral
+2. Lisinopril 10mg daily oral
+3. Metoprolol 25mg twice daily oral
+4. Aspirin 81mg daily oral
+5. Atorvastatin 40mg daily oral
+
+DISCHARGE MEDICATIONS (CHANGES):
+1. Furosemide 80mg daily oral — DOSE DOUBLED
+2. Lisinopril 10mg daily oral — unchanged
+3. Metoprolol 25mg twice daily oral — unchanged
+4. Aspirin 81mg daily oral — unchanged
+5. Atorvastatin 40mg daily oral — unchanged
+6. Rivaroxaban 20mg daily with evening meal — NEW (for Afib stroke prevention)
+7. Spironolactone 25mg daily oral — NEW (for heart failure)
+
+ALLERGIES:
+- Sulfa drugs: Diffuse skin rash
+
+SOCIAL HISTORY:
+- Lives alone in apartment
+- Daughter 2 hours away, visits weekends
+- No home health aide currently
+- Limited mobility due to arthritis
+- Prior admissions: February 2026 (same diagnosis)
+
+DISCHARGE NOTES:
+Patient needs daily weight monitoring. Clear instructions on when to call doctor. Follow up with cardiology within 7 days.

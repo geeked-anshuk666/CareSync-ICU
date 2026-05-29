@@ -1,0 +1,36 @@
+Patient: Maria Garcia | Female | DOB: 07/22/1970 | Age: 54
+Setting: Cardiology Ward, Pre-Procedure
+
+CHIEF COMPLAINT: Chest pain on exertion, scheduled for diagnostic coronary angiography.
+
+HISTORY OF PRESENT ILLNESS:
+Maria Garcia is a 54-year-old Spanish-speaking female admitted for evaluation of exertional chest pain. Stress test showed inferolateral ischemia. Patient speaks primarily Spanish with limited English. Husband present as interpreter but medical interpreter not yet arranged.
+
+ACTIVE CONDITIONS:
+- Suspected coronary artery disease (pending angiography)
+- Type 2 Diabetes Mellitus (diagnosed 8 years ago)
+- Hypertension
+- Hyperlipidemia
+
+CURRENT VITALS:
+- Heart Rate: 78 bpm
+- Blood Pressure: 142/88 mmHg
+- SpO2: 97% on room air
+- BMI: 31.2
+
+ACTIVE MEDICATIONS:
+1. Metformin 1000mg twice daily oral
+2. Lisinopril 10mg daily oral
+3. Atorvastatin 40mg daily oral
+4. Aspirin 81mg daily oral
+
+ALLERGIES:
+- No Known Drug Allergies
+
+PREFERRED LANGUAGE: Spanish
+COMMUNICATION NOTE: Patient nods but does not fully understand English consent documents. Husband translates but is not a medical interpreter.
+
+SCHEDULED PROCEDURE:
+- Coronary angiography tomorrow at 08:00
+- Informed consent not yet completed
+- NPO after midnight
